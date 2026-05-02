@@ -1,4 +1,4 @@
-import profilePic from '../assets/profile-pic.jpg'
+import profilePic from '../assets/me.png'
 
 function HeroSection() {
   return (
@@ -6,12 +6,12 @@ function HeroSection() {
       <div className="relative z-10">
          
         <h1 className="mt-5 max-w-3xl text-4xl font-black leading-tight text-[#3A405A] md:text-6xl">
-          Hi, I&apos;m [Your Name].
-          <span className="hero-accent-text"> I&apos;m a [Your Role].</span>
+          Hi, I&apos;m Jiya Patel!
+          {/* <span className="hero-accent-text"> I&apos;m a Mechanical Engineering student at the University of Waterloo.</span> */}
         </h1>
 
         <p className="mt-5 max-w-2xl text-base leading-relaxed text-[#685044] md:text-lg">
-          Replace this with 2-3 lines about your focus, interests, and the impact you want to create in engineering.
+          As a first-year Mechanical Engineering student at the University of Waterloo, I’m interested in design and problem-solving through engineering. Through coursework and personal projects, I have become proficient with SOLIDWORKS and AutoCAD, using them to develop design ideas, create models, and refine solutions through iteration. I am currently seeking Fall 2026 co-op opportunities to contribute to meaningful work and develop my skills as an aspiring engineer.
         </p>
 
         <div className="mt-8 flex flex-wrap gap-3">
@@ -36,7 +36,7 @@ function HeroSection() {
           <img
             src={profilePic}
             alt="Profile"
-            className="h-56 w-56 rounded-[1.5rem] border border-[#E9AFA3] object-cover"
+            className="h-90 w-130 rounded-[1.5rem] border border-[#E9AFA3] object-cover"
           />
         </div>
       </div>
