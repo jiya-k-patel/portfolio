@@ -136,11 +136,11 @@ Then do this in VS Code:
 
 Current template colors:
 
-- `#3A405A` (main text / headings)
-- `#AEC5EB` (borders)
-- `#F9DEC9` (cards / light backgrounds)
-- `#E9AFA3` (hover / accents)
-- `#685044` (secondary text)
+- `#000000F` (main text / headings)
+- `#3B3561` (borders)
+- `#DDDBF1` (cards / light backgrounds)
+- `#3B3561` (hover / accents)
+- `#3B3561` (secondary text)
 
 Tip: Replace one color at a time, then save and check your browser.
 

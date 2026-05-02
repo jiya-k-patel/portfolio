@@ -8,7 +8,7 @@ import { projects } from './data/projects'
 
 function App() {
   return (
-    <div className="min-h-screen bg-white text-[#3A405A]">
+    <div className="min-h-screen bg-[#3B3561] text-[#3B3561]">
       <Header />
 
       <main className="mx-auto flex w-full max-w-5xl flex-col gap-20 px-6 py-14">

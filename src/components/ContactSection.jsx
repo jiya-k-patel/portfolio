@@ -5,11 +5,11 @@ function ContactSection() {
   return (
     <section
       id="contact"
-      className="flex flex-col items-center space-y-6 rounded-2xl border border-[#AEC5EB] bg-[#F9DEC9] p-8 shadow-sm"
+      className="flex flex-col items-center space-y-6 rounded-2xl border border-[#3B3561] bg-[#DDDBF1] p-8 shadow-sm"
     >
-      <h2 className="text-2xl font-semibold text-[#3A405A]">Contact</h2>
+      <h2 className="text-2xl font-semibold text-[#000000F]">Contact</h2>
 
-      <div className="flex gap-10 text-[#685044]">
+      <div className="flex gap-10 text-[#3B3561]">
         {/* Email */}
         <a
           href="mailto:jiya.patel@uwaterloo.ca"
